@@ -91,3 +91,5 @@ generated-src
 data
 generatedFromThrift
 
+server.jar
+
